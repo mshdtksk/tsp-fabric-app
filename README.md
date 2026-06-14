@@ -2,9 +2,7 @@
 
 住所を保存し、地図クリックで地点追加し、巡回路（TSPに近い round trip）を算出して表示する Fabric App です。
 
-<img width="1580" height="866" alt="スクリーンショット 2026-06-15 005044" src="https://github.com/user-attachments/assets/7df37152-6732-4273-af5d-7af50ca77017" />
-
-
+<img width="1578" height="869" alt="スクリーンショット 2026-06-15 005955" src="https://github.com/user-attachments/assets/7b359d7e-000d-4513-8a98-073caae5a4e8" />
 
 ## 1. 事前条件
 
